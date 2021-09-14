@@ -1,19 +1,19 @@
 {
   "compilerOptions": {
-      "target": "es2020",
-      "lib": ["es2020", "dom"],
-      "module": "commonjs",
-      "moduleResolution": "node",
-      "declaration": true,
-      "isolatedModules": true,
-      "strict": true,
-      "skipLibCheck": true,
-      "importsNotUsedAsValues": "error",
-      "forceConsistentCasingInFileNames": true,
-      "keyofStringsOnly": true,
-      "resolveJsonModule": true,
-      "importHelpers": true,
-      "outDir": "dist"
+    "target": "es2020",
+    "lib": ["es2020", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "declaration": true,
+    "isolatedModules": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "importsNotUsedAsValues": "error",
+    "forceConsistentCasingInFileNames": true,
+    "keyofStringsOnly": true,
+    "resolveJsonModule": true,
+    "importHelpers": true,
+    "outDir": "dist"
   },
   "include": ["src"]
 }
