@@ -6,7 +6,7 @@
 ```bash 
 npm run build      # Запуск сборки проекта
 npm run test       # Запуск тестирования
-npm run start:dev  # Запуск проекта
+npm run start      # Запуск проекта
 ```
 
 ## FOSSA Status
