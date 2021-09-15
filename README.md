@@ -1,6 +1,6 @@
 ## Простой NodeJS проект для статьи в [CodeSurf](https://codesurf.ru)
 
-Проект подготовлен в рамках обучающей статьи — «‎Автоматизация развёртывания NodeJS проекта с использованием Docker, GitLab CI/CD и GitLab Runner»‎
+Проект подготовлен в рамках обучающей статьи — [«‎Автоматизация развёртывания NodeJS (и не только) проекта с использованием Docker, GitLab CI/CD и GitLab Runner»‎](https://codesurf.ru/auto-gitlabci-docker)
 
 Команды:
 ```bash 
